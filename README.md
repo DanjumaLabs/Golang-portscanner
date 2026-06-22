@@ -47,5 +47,8 @@ port 443 is OPEN: HTTP|HTTP/1.1 200 OK...
 open ports: 2
 closed ports: 0
 
+For any errors,contributions or question
+ashtech01@protonmail.com
+
 Legal Notice
 This tool is intended for authorized network testing and security research only. Unauthorized access to computer systems is illegal. Always obtain proper authorization before scanning networks.
